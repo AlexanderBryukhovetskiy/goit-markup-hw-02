@@ -113,7 +113,9 @@ body {
 }
 
 .menu-element {
+    font-weight: 500;
     line-height: 1.14;
+    color: var(--main-font-color);
     
     /*
     margin-bottom:32px;
