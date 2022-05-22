@@ -134,6 +134,7 @@ body {
 .contact-element {
     color: var(--secondary-font-color);
     line-height: 1.14;
+    font-weight: 500;
 }
 
 .contact-element:hover {
